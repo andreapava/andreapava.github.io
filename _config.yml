@@ -47,7 +47,7 @@ darkmode: false
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Andrea and I'm a <mark>iOS</mark> developer. As well as creating apps from the ground up I also have experience making software and web apps.
+  Hi, my name's Andrea and I'm an iOS developer. As well as creating apps from the ground up I also have experience making software and web apps.
 
 content:
 #  - title: Projects # Title for the section
@@ -80,16 +80,22 @@ content:
         sub_title: iOS Developer
         caption: January 2020 - Present
         description: | # this will include new lines to allow paragraphs
-            - ##Retail app |
-                  dfdfdfdf
-            - ##Retail app 
-                | dfdfdfdf
-            - | # ##IoT app
-            - | Brand sustainability app
-              --------------------------
-            - **Office access control and rooms/desks booking app**
-            - | **Real-time Joint and body position processing**
-            ⋅⋅⋅test⋅⋅⋅
+            - IoT stove control 
+              -----------------
+             >
+             The app can remotely control and monitor multiple stoves using BLE and MQTT.
+              Heavy use of Modbus communication protocol and RxSwift.
+            - Joint position based photo shooting 
+              -----------------
+             >
+             The app can recognize body positions in real-time and take pictures based on the user joints configuration. 
+            - Brand sustainability
+              --------------------
+             >
+             The app displays products lists and details regarding the product's sustainability of the brand.
+             Implemented SSO authentication to display additional data and let the user participate in sustainability quizzes.
+             Also implemented custom animated charts.
+
 
   - title: Key skills
     layout: text
