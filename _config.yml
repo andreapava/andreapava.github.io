@@ -80,21 +80,21 @@ content:
         sub_title: iOS Developer
         caption: January 2020 - Present
         description: | # this will include new lines to allow paragraphs
-            - IoT stove control 
-              -----------------
-             >
-             The app can remotely control and monitor multiple stoves using BLE and MQTT.
-              Heavy use of Modbus communication protocol and RxSwift.
-            - Joint position based photo shooting 
-              -----------------
-             >
-             The app can recognize body positions in real-time and take pictures based on the user joints configuration. 
-            - Brand sustainability
-              --------------------
-             >
-             The app displays products lists and details regarding the product's sustainability of the brand.
-             Implemented SSO authentication to display additional data and let the user participate in sustainability quizzes.
-             Implemented custom animated charts.
+#- IoT stove control 
+#  -----------------
+# >
+# The app can remotely control and monitor multiple stoves using BLE and MQTT.
+#  Heavy use of Modbus communication protocol and RxSwift.
+#- Joint position based photo shooting 
+#  -----------------
+# >
+# The app can recognize body positions in real-time and take pictures based on the user joints configuration. 
+#- Brand sustainability
+#  --------------------
+# >
+# The app displays products lists and details regarding the product's sustainability of the brand.
+# Implemented SSO authentication to display additional data and let the user participate in sustainability quizzes.
+# Implemented custom animated charts.
 
 
   - title: Key skills
