@@ -49,7 +49,7 @@ about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Andrea and I'm a <mark>iOS</mark> developer. As well as creating apps from the ground up I also have experience making software and web apps.
 
-#content:
+content:
 #  - title: Projects # Title for the section
 #    layout: list # Type of content section (list/text)
 #    content:
@@ -80,7 +80,7 @@ about_content: | # this will include new lines to allow paragraphs
         sub_title: iOS Developer
         caption: January 2019 - Present
         quote: >
-        - //TODO
+         //TODO
         description: | # this will include new lines to allow paragraphs
             //TODO
 
@@ -91,7 +91,7 @@ about_content: | # this will include new lines to allow paragraphs
         title: University of Padua
         sub_title: BSc Computer Science
         quote: >
-        -  //TODO university quote
+          //TODO university quote
         description: | # this will include new lines to allow paragraphs
           //TODO: university experiences
 
