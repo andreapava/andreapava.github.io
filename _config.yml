@@ -45,7 +45,7 @@ darkmode: false
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Andrea and I'm a <mark>iOS</mark> developer. As well as creating apps from the ground up I also have experience making software and web apps.
 
