@@ -1,5 +1,5 @@
 # Site
-repository: sproogen/resume-theme
+repository: andreapava/andreapava.github.io.git
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -11,7 +11,7 @@ title: iOS Developer
 email: pavinandrea5@gmail.com
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: never
 
 # Social links
 # twitter_username: facespics
@@ -78,11 +78,22 @@ content:
         link: zero12.it
         # link_text: http://www.zero12.it/
         sub_title: iOS Developer
-        caption: January 2019 - Present
+        caption: January 2020 - Present
         quote: >
          //TODO
         description: | # this will include new lines to allow paragraphs
             //TODO
+
+  - title: Key skills
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - Swift
+      - SwiftUI
+      - iOS SDK
+      - 3rd party SDKs and API(S) integration
+      - Collaboration
+      - Communication
+      - Organizational skills
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -91,9 +102,9 @@ content:
         title: University of Padua
         sub_title: BSc Computer Science
         quote: >
-          //TODO university quote
-        description: | # this will include new lines to allow paragraphs
-          //TODO: university experiences
+          Universa Universis Patavina Libertas
+#        description: | # this will include new lines to allow paragraphs
+#          //TODO: university experiences
 
   - title: A Little More About Me
     layout: text
