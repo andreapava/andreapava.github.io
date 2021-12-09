@@ -86,9 +86,10 @@ content:
                 | dfdfdfdf
             - | # ##IoT app
             - | Brand sustainability app
-                ------------------------
+              --------------------------
             - **Office access control and rooms/desks booking app**
-            - | # **Real-time Joint and body position processing**
+            - | **Real-time Joint and body position processing**
+            ⋅⋅⋅test⋅⋅⋅
 
   - title: Key skills
     layout: text
