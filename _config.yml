@@ -94,7 +94,7 @@ content:
              >
              The app displays products lists and details regarding the product's sustainability of the brand.
              Implemented SSO authentication to display additional data and let the user participate in sustainability quizzes.
-             Also implemented custom animated charts.
+             Implemented custom animated charts.
 
 
   - title: Key skills
