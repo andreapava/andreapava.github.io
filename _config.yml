@@ -11,7 +11,7 @@ title: iOS Developer
 email: pavinandrea5@gmail.com
 
 # Dark Mode (true/false/never)
-darkmode: never
+darkmode: false
 
 # Social links
 # twitter_username: facespics
@@ -79,18 +79,21 @@ content:
         # link_text: http://www.zero12.it/
         sub_title: iOS Developer
         caption: January 2020 - Present
-        quote: >
-         //TODO
         description: | # this will include new lines to allow paragraphs
-            //TODO
+            - Retail app
+            - IoT app
+            - Brand sustainability app
+            - Office access control and rooms/desks booking app
+            - Real-time Joint and body position processing
 
   - title: Key skills
-    layout: text
+    layout: list
     content: | # this will include new lines to allow paragraphs
       - Swift
       - SwiftUI
       - iOS SDK
       - 3rd party SDKs and API(S) integration
+      - AWS Certified Cloud Practitioner
       - Collaboration
       - Communication
       - Organizational skills
