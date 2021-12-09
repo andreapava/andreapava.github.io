@@ -80,7 +80,7 @@ about_content: | # this will include new lines to allow paragraphs
         sub_title: iOS Developer
         caption: January 2019 - Present
         quote: >
-          //TODO
+        - //TODO
         description: | # this will include new lines to allow paragraphs
             //TODO
 
@@ -91,7 +91,7 @@ about_content: | # this will include new lines to allow paragraphs
         title: University of Padua
         sub_title: BSc Computer Science
         quote: >
-          //TODO university quote
+        -  //TODO university quote
         description: | # this will include new lines to allow paragraphs
           //TODO: university experiences
 
