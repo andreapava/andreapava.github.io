@@ -80,14 +80,15 @@ content:
         sub_title: iOS Developer
         caption: January 2020 - Present
         description: | # this will include new lines to allow paragraphs
-            - Retail app
+            - | ##Retail app
+                  dfdfdfdf
             - IoT app
             - Brand sustainability app
             - Office access control and rooms/desks booking app
             - Real-time Joint and body position processing
 
   - title: Key skills
-    layout: list
+    layout: text
     content: | # this will include new lines to allow paragraphs
       - Swift
       - SwiftUI
