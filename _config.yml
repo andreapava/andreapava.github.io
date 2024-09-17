@@ -47,7 +47,7 @@ darkmode: false
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Andrea and I'm an iOS developer. As well as creating apps from the ground up I also have experience making software and web apps.
+  Hi, my name's Andrea and I'm an iOS developer.
 
 content:
 #  - title: Projects # Title for the section
@@ -71,15 +71,30 @@ content:
 #               //TODO
 
   - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
+    layout: text # Type of content section (list/text)
     content:
       - layout: left
         title: Zero12
         link: zero12.it
         # link_text: http://www.zero12.it/
         sub_title: iOS Developer
-        caption: January 2020 - Present
+        caption: 2020 - 2022
         description: | # this will include new lines to allow paragraphs
+      - layout: left
+        title: Lenis
+        link: https://lenis.tech/
+        # link_text: http://www.zero12.it/
+        sub_title: iOS Developer
+        caption: 2022 - Present
+        description: | # this will include new lines to allow paragraphs
+
+  - title: Indie development # Title for the section
+    layout: text # Type of content section (list/text)
+    content:
+      - layout: left
+        title: FastGymLogs
+        link: zero12.it
+        
 #- IoT stove control 
 #  -----------------
 # >
@@ -100,14 +115,13 @@ content:
   - title: Key skills
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Swift
+      - UIKit
       - SwiftUI
-      - iOS SDK
       - 3rd party SDKs and API(S) integration
-      - AWS Certified Cloud Practitioner
       - Collaboration
       - Communication
       - Organizational skills
+      - Somehow also AWS Certified Cloud Practitioner
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -120,17 +134,17 @@ content:
 #        description: | # this will include new lines to allow paragraphs
 #          //TODO: university experiences
 
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my IT interests some of my other interests and hobbies are:
-      - Music
-      - Cinema
-      - Books
-      - Motorcycles
-      - Gym/Powerlifting  
-      - Gaming
-      - Hi-Fi Systems
+#  - title: A Little More About Me
+#    layout: text
+#    content: | # this will include new lines to allow paragraphs
+#      Alongside my IT interests some of my other interests and hobbies are:
+#      - Music
+#      - Cinema
+#      - Books
+#      - Motorcycles
+#      - Gym/Powerlifting  
+#      - Gaming
+#      - Hi-Fi Systems
       
 # Footer
 footer_show_references: true
