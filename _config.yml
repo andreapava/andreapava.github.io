@@ -71,7 +71,7 @@ content:
 #               //TODO
 
   - title: Experience # Title for the section
-    layout: text # Type of content section (list/text)
+    layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: Zero12
@@ -79,21 +79,23 @@ content:
         # link_text: http://www.zero12.it/
         sub_title: iOS Developer
         caption: 2020 - 2022
-        description: | # this will include new lines to allow paragraphs
-      - layout: left
+        description:  # this will include new lines to allow paragraphs
+      - layout: center
         title: Lenis
-        link: https://lenis.tech/
-        # link_text: http://www.zero12.it/
+        link: lenis.tech
         sub_title: iOS Developer
         caption: 2022 - Present
         description: | # this will include new lines to allow paragraphs
 
   - title: Indie development # Title for the section
-    layout: text # Type of content section (list/text)
-    content:
+    layout: list # Type of content section (list/text)
+    content: 
       - layout: left
         title: FastGymLogs
-        link: zero12.it
+        sub_title: workout logging app for iOS
+        link: sites.google.com/view/fastgymlogs
+        link_text: FastGymLogs 
+        
         
 #- IoT stove control 
 #  -----------------
